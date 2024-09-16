@@ -12,6 +12,10 @@ This database provides detailed tracking of NFL player contracts. It currently i
 - **Contract data**: Sourced from [OverTheCap.com](https://overthecap.com) and [Spotrac.com](https://spotrac.com)
 - **Player information**: Sourced using [Pro-Football-Reference.com](https://pro-football-reference.com)
 
+### Technologies Used
+- PostgreSQL
+- Tableau (data visualization)
+
 ### Planned Updates
 - Addition of historical contract data
 - Addition of more comprehensive contract data
@@ -89,3 +93,4 @@ The database is organized into several key tables:
    - **contract_id** (Foreign Key to Contracts)
    - dead_money_amount
    - dead_money_year
+
