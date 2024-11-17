@@ -29,7 +29,7 @@ The database is organized into several key tables:
    - **name**: Player's full name
    - **position**
    - **age**
-   - **college**: Last school attended prior to entering the NFL
+   - **college**: Last college attended prior to entering the NFL
    - **experience_years**
    - **draft_pick**
    - **current_team_id**: (Foreign Key to Teams) Links to the player's current team
